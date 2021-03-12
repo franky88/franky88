@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack web application development
 - 🌱 I’m currently learning javascripts
 - 💞️ I’m looking to collaborate on fullstack web application projects using javascripts
-- 📫 You can reach me my email add ramosfp99@gamil.com
+- 📫 You can reach me my email add ramosfp99@gmail.com
 
 <!---
 franky88/franky88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
